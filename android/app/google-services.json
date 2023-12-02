@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883683099314",
+    "project_id": "myventuretest",
+    "storage_bucket": "myventuretest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883683099314:android:3c7212ae474ac53387bfab",
+        "android_client_info": {
+          "package_name": "com.myventuretask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tUfX_PlcK8HeBB_2_oPrlGN1nVTsBAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
